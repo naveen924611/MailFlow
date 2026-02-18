@@ -4,7 +4,6 @@ const Login :React.FC = ()=> {
   return (
     <div className='flex-box'>   
      {/* <div className='Login'> */}
-
         <div className='login-box'>
             <h1>Login</h1>
             <div className='login-divs ' style={{width:"100%"}} >
